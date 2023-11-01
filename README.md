@@ -17,3 +17,16 @@ order to support data driven decision making. </p>
 <p>
 2. Sales team able to take better decisions and prove 10% cost savings of total spend Sales Analyst stop data gathering manually in order to save 20% of their business time and reinvest it value added activity.
 </p>
+
+## Project Learning
+
+<p> 1. Performed data cleaning and manipulation. </p>
+<p> 2. Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn llibraries. </p>
+<p> 3. Improved customer experience by identifying potential customers across different states, 
+occupation, gender and age groups. </p>
+<p> 4. Imporved sales by identifying most selling product  categories and products, which can help to plan inventory and hence meet the demands. </p>
+
+
+
+
+
