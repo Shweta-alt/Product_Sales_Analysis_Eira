@@ -27,6 +27,21 @@ occupation, gender and age groups. </p>
 <p> 4. Imporved sales by identifying most selling product  categories and products, which can help to plan inventory and hence meet the demands. </p>
 
 
+## Outcomes
+
+<p>
+1. 
+</p>
+<p>
+2. 
+</p>
+<p>
+3. 
+</p>
+<p>
+4. 
+</p>
+
 
 
 
