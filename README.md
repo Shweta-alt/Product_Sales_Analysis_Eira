@@ -30,16 +30,16 @@ occupation, gender and age groups. </p>
 ## Outcomes
 
 <p>
-1. 
+1. High-value purchases are primarily made by married working women aged 26-35 years.
 </p>
 <p>
-2. 
+2. Lowest product sales are recorded in Punjab.
 </p>
 <p>
-3. 
+3. Uttar Pradesh reports the highest product sales.
 </p>
 <p>
-4. 
+4. Stationary products have the lowest sales among all product categories.
 </p>
 
 
